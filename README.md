@@ -58,10 +58,12 @@ Supabase Realtime을 백본으로 한 메신저 앱입니다. 저사양 기기�
 
 - **실시간 채팅** — Supabase Realtime broadcast 채널 기반 송수신 및 채팅방 목록 실시간 갱신
 - **음성·영상 통화** — Agora SDK 6.5.0, 통화 알림 생명주기 관리
-- **차단/신고 · 메시지 백업** — 미디어 포함 \`.zip\` 백업/복원
+- **차단/신고 · 메시지 백업** — 미디어 포함 `.zip` 백업/복원
 - **인앱 결제** — RevenueCat 기반 Pro 구독
 
-\`Flutter\` \`Riverpod\` \`Supabase\` \`Agora\` \`RevenueCat\` \`Hive\` · *Play Store 내부 테스트 중*
+`Flutter` `Riverpod` `Supabase` `Agora` `RevenueCat` `Hive` · *Play Store 내부 테스트 중*
+
+[**자세히 보기 →**](https://github.com/kyojin00/kyorangtalk_APP)
 
 ### 🏘️ 교랑빌리지 (Kyorang Village)
 
@@ -69,7 +71,9 @@ Supabase Realtime을 백본으로 한 메신저 앱입니다. 저사양 기기�
 
 같은 관심사를 가진 사람들이 모여 소통하는 관심사 기반 커뮤니티 플랫폼입니다. 관심사별 공간을 중심으로 사용자들을 연결하는 것을 목표로 개발 중입니다.
 
-\`Flutter\` \`Supabase\` · *개발 중*
+`Flutter` `Supabase` · *개발 중*
+
+[**자세히 보기 →**](https://github.com/kyojin00/kyorang_village)
 
 ### 🌐 kyorang.com (kyorang-www)
 
@@ -77,7 +81,9 @@ Supabase Realtime을 백본으로 한 메신저 앱입니다. 저사양 기기�
 
 교랑의 정체성과 제품군(교랑 패밀리)을 소개하는 공식 웹사이트입니다. Next.js App Router 기반으로 제작했습니다.
 
-\`Next.js 14\` \`TypeScript\` \`Tailwind CSS\` \`Vercel\`
+`Next.js 14` `TypeScript` `Tailwind CSS` `Vercel`
+
+[**자세히 보기 →**](https://github.com/kyojin00/kyorang-www)
 
 ### 🏭 승산팩 시스템 (SSP App)
 
@@ -90,8 +96,10 @@ Supabase Realtime을 백본으로 한 메신저 앱입니다. 저사양 기기�
 - **공지·푸시 알림** — OneSignal · FCM
 - **직원 분석** — 부서별·기간별 통계
 
-\`Flutter (PWA)\` \`Supabase\` \`Claude Vision\` \`OneSignal\` \`FCM\` \`Firebase Hosting\`<br>
+`Flutter (PWA)` `Supabase` `Claude Vision` `OneSignal` `FCM` `Firebase Hosting`<br>
 🌐 [sspapp-71608.web.app](https://sspapp-71608.web.app) · *2025.01 ~ 현재 운영 중*
+
+[**자세히 보기 →**](https://github.com/kyojin00/SSP_APP)
 
 ---
 
