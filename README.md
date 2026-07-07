@@ -48,7 +48,19 @@
 
 ## 📦 Projects
 
-혼자 만들고 운영하는 제품들입니다. 모바일 앱 2종, 회사 소개 웹, 그리고 실제 제조 현장에서 매일 쓰이는 사내 업무 시스템으로 구성됩니다.
+혼자 만들고 운영하는 제품들입니다. **Play Store 출시 앱**, 개발 중인 메신저 앱, 회사 소개 웹, 그리고 실제 제조 현장에서 매일 쓰이는 사내 업무 시스템으로 구성됩니다.
+
+### 🏘️ 교랑빌리지 (Kyorang Village)
+
+> 관심사 기반 커뮤니티 플랫폼 앱 · **Play Store 출시**
+
+같은 관심사를 가진 사람들이 모여 소통하는 관심사 기반 커뮤니티 플랫폼입니다. 관심사별 공간을 중심으로 사용자들을 연결합니다.
+
+`Flutter` `Supabase` · *Google Play 정식 출시*
+
+[![Google Play](https://img.shields.io/badge/Google_Play-다운로드-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kyorang.kyorang_village)
+
+[**자세히 보기 →**](https://github.com/kyojin00/kyorang_village)
 
 ### 🟣 교랑톡 (KyorangTalk)
 
@@ -61,19 +73,9 @@ Supabase Realtime을 백본으로 한 메신저 앱입니다. 저사양 기기�
 - **차단/신고 · 메시지 백업** — 미디어 포함 `.zip` 백업/복원
 - **인앱 결제** — RevenueCat 기반 Pro 구독
 
-`Flutter` `Riverpod` `Supabase` `Agora` `RevenueCat` `Hive` · *Play Store 내부 테스트 중*
+`Flutter` `Riverpod` `Supabase` `Agora` `RevenueCat` `Hive` · *개인 사정으로 출시가 잠시 미뤄지고 있으며, 추후 재개 예정*
 
 [**자세히 보기 →**](https://github.com/kyojin00/kyorangtalk_APP)
-
-### 🏘️ 교랑빌리지 (Kyorang Village)
-
-> 관심사 기반 커뮤니티 플랫폼 앱
-
-같은 관심사를 가진 사람들이 모여 소통하는 관심사 기반 커뮤니티 플랫폼입니다. 관심사별 공간을 중심으로 사용자들을 연결하는 것을 목표로 개발 중입니다.
-
-`Flutter` `Supabase` · *개발 중*
-
-[**자세히 보기 →**](https://github.com/kyojin00/kyorang_village)
 
 ### 🌐 kyorang.com (kyorang-www)
 
@@ -97,7 +99,7 @@ Supabase Realtime을 백본으로 한 메신저 앱입니다. 저사양 기기�
 - **직원 분석** — 부서별·기간별 통계
 
 `Flutter (PWA)` `Supabase` `Claude Vision` `OneSignal` `FCM` `Firebase Hosting`<br>
-🌐 [sspapp-71608.web.app](https://sspapp-71608.web.app) · *2025.01 ~ 현재 운영 중*
+🌐 [sspapp-71608.web.app](https://sspapp-71608.web.app) · *2026.01 ~ 현재 운영 중*
 
 [**자세히 보기 →**](https://github.com/kyojin00/SSP_APP)
 
@@ -106,6 +108,7 @@ Supabase Realtime을 백본으로 한 메신저 앱입니다. 저사양 기기�
 ## 💡 About My Work
 
 - **1인 풀사이클 개발** — 기획 · 디자인 · 프론트엔드 · 백엔드(Supabase/RLS) · 배포 · 운영까지 단독 수행
+- **Play Store 출시 경험** — 심사 대응부터 정식 출시, 운영까지 직접 진행
 - **실사용 제품 운영** — 데모가 아니라 실제 사용자/현장이 매일 쓰는 서비스를 만들고 유지보수
 - **모바일 + 웹 양쪽** — Flutter(앱·PWA)와 Next.js(웹)를 함께 다룸
 - **현장 문제 해결** — 저사양 기기 렌더링 최적화, RLS 순환 참조, 실시간 동기화 등 실제 문제를 직접 진단·해결
